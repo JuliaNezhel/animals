@@ -1,0 +1,11 @@
+@forward "colors";
+@forward "typography";
+@forward "boilerplate";
+
+.container {
+  padding: 0 14px;
+  margin: 0 auto;
+  width: 100%;
+  min-height: 100%;
+  border-bottom: 1px solid black;
+}
